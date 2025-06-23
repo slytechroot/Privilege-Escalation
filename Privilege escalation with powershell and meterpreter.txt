@@ -1,0 +1,30 @@
+privesc/bypassuac
+privesc/bypassuac_env
+privesc/bypassuac_eventvwr
+privesc/bypassuac_fodhelper
+privesc/bypassuac_sdctlbypass
+privesc/bypassuac_tokenmanipulation
+privesc/bypassuac_wscript
+privesc/getsystem*
+privesc/gpp
+privesc/mcafee_sitelist
+privesc/ms16-032
+privesc/ms16-135
+privesc/powerup/allchecks
+privesc/powerup/find_dllhijack
+privesc/powerup/service_exe_restore
+privesc/powerup/service_exe_stager
+privesc/powerup/service_exe_useradd
+privesc/powerup/service_stager
+privesc/powerup/service_useradd
+privesc/powerup/write_dllhijacker
+privesc/tater
+
+
+exploit/windows/local/ms10_015_kitrap0d                          2010-01-19       great      Windows SYSTEM Escalation via KiTrap0D
+   exploit/windows/local/ms10_092_schelevator                       2010-09-13       excellent  Windows Escalate Task Scheduler XML Privilege Escalation
+   exploit/windows/local/ms11_080_afdjoinleaf                       2011-11-30       average    MS11-080 AfdJoinLeaf Privilege Escalation
+   exploit/windows/local/ms13_005_hwnd_broadcast                    2012-11-27       excellent  MS13-005 HWND_BROADCAST Low to Medium Integrity Privilege Escalation
+   exploit/windows/local/ms13_053_schlamperei                       2013-12-01       average    Windows NTUserMessageCall Win32k Kernel Pool Overflow (Schlamperei)
+   exploit/windows/local/ms14_070_tcpip_ioctl                       2014-11-11       average    MS14-070 Windows tcpip!SetAddrOptions NULL Pointer Dereference
+   exploit/windows/local/ms16_016_webdav           
